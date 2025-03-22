@@ -24,7 +24,7 @@ The project involves:
 ## Results
 The models were evaluated based on classification metrics and feature importance to identify the most significant predictors of mortality.
 
-For more details refer to the Word document reports included in this repository
+For more details refer to the reports included in this repository
 
 ## Getting Started
 ### Install Dependencies
